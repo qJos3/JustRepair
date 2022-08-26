@@ -1,0 +1,13 @@
+
+
+
+non-permission: "&7[&4Error&7] &cYou don't have permission to do this."
+no-player-found: "&7[&4Error&7] &cPlayer {player} not found."
+
+fix-max-error: "&7[&4Error&7] &cThis item is already fixed."
+fix-error: "&7[&4Error&7] &cYou can't fix this item."
+fix-usage: "&7[&4Error&7] &cUse /fix <all/hand> (name)."
+fix-all-success: "&aYou repaired your inventory successfully."
+fix-all-others-success: "&aYou repaired {player}'s inventory successfully."
+fix-all-others-receiver: "&aYour inventory got fixed by &6{sender}&a."
+fix-hand-success: "&aYou repaired the item on your hand successfully."

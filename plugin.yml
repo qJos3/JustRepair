@@ -1,0 +1,6 @@
+name: JustRepair
+author: Jos3
+main: Jos3\JustRepair
+api:
+  - 4.0.0
+version: 1
